@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.alexarchambault.test</groupId>
-  <artifactId>hello-world</artifactId>
+  <artifactId>hello-world_2.11</artifactId>
   <packaging>jar</packaging>
-  <version>0.3-SNAPSHOT</version>
+  <version>0.4</version>
   <name>MavenHelloWorldProject</name>
   <url>http://maven.apache.org</url>
   <scm>
